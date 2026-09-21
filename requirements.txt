@@ -1,0 +1,4 @@
+# Starter scaffold, pending Reddit Data API approval.
+# Installing these does not grant API access. See README.md.
+praw>=8.0,<9
+python-dotenv>=1.0,<2

@@ -1,0 +1,13 @@
+# Starter scaffold, pending Reddit Data API approval.
+
+# Real credentials live only in a local .env file
+.env
+
+# Local SQLite data, which holds Reddit content and is never committed
+*.db
+*.db-journal
+
+# Python
+__pycache__/
+venv/
+.venv/
